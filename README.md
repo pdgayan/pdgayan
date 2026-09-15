@@ -2,6 +2,7 @@
 
   - [LinkedIn](https://www.linkedin.com/in/gayanpd/)
   - [Medium](https://medium.com/@pathirage)
+  - [opsnotecloud](https://opsnotecloud.pages.dev/)
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-98&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-98" /> </p>
 
