@@ -1,6 +1,6 @@
   # Hello, World! 👋
 
-  - [LinkedIn](https://www.linkedin.com/in/gayanpd/)
+  - [LinkedIn](https://www.linkedin.com/in/gayan98/)
   - [Medium](https://medium.com/@pathirage)
   - [opsnotecloud](https://opsnotecloud.pages.dev/)
 
